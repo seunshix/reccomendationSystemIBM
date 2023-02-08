@@ -11,8 +11,9 @@ The project is implemented using Python 3.x and the following libraries are used
 - scikit-learn
 To run this project, you need to have these libraries installed on your system. If not, you can install them by running the following command in your terminal/command prompt:
 
-
+```
     pip install nltk numpy pandas re scikit-learn
+```
 
 ### **Data**
 The dataset used in this project is a subset of real data from the IBM Watson Studio platform. The data contains information on user interactions with articles, including article titles and article IDs.
