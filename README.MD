@@ -37,3 +37,5 @@ The following steps are performed in the project to build the recommender system
 
 ### **Conclusion**
 This project showcases the implementation of a basic recommender system. The system uses a combination of different recommendation techniques to provide personalized recommendations to each user. The project can be further improved by incorporating additional features, such as article content or user profiles, and using more advanced algorithms.
+
+Check out my Medium post about the project [here](https://medium.com/@seunshix/recommendation-systems-how-machine-learning-is-transforming-the-way-we-discover-content-6132bcb54989)
